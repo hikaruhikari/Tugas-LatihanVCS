@@ -167,6 +167,7 @@ git push -u origin master
 
 Perintah di atas akan menampilkan pop up sign in GitHub. Anda perlu login untuk melanjutkan proses push ke GitHub. 
 ![image](https://github.com/user-attachments/assets/bb03f53c-65af-4a96-b56e-54b497ae292c)
+
 pop up sign in github muncul di layar
 11. Cek File 
 Setelah itu, cek repository yang telah Anda buat. Anda akan mendapati file-file yang telah ditambahkan sebelumnya. Pada tutorial ini kami hanya menambahkan satu file, yaitu README.txt. 
