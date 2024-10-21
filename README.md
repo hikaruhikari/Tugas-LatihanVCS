@@ -1,9 +1,12 @@
 # Tugas-LatihanVCS
 Tutorial cara pembuatan git
+
 Cara Install Git di Windows dan Linux
+
 Sebelum mempelajari bagaimana cara menggunakan Git, Anda perlu menginstalnya terlebih dahulu di perangkat yang Anda gunakan. Anda bisa memasang Git baik di Windows maupun di Linux. Berikut adalah panduan memasang Git di kedua sistem operasi tersebut:
 
 Cara Install Git di Windows
+
 Cara install Git di Windows terdiri dari 10 langkah. Berikut adalah penjelasannya:
 
 1. Download File Git
