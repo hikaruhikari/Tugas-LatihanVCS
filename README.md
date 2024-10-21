@@ -164,12 +164,11 @@ menjalankan perintah git untuk mengenali username dan repository github
 Langkah terakhir adalah push ke GitHub Push ini berfungsi untuk mengupload hasil akhir dari langkah-langkah di atas. Masukkan perintah berikut untuk melakukan push ke GitHub:
 
 git push -u origin master
-Perintah di atas akan menampilkan pop up sign in GitHub. Anda perlu login untuk melanjutkan proses push ke GitHub. 
 
+Perintah di atas akan menampilkan pop up sign in GitHub. Anda perlu login untuk melanjutkan proses push ke GitHub. 
+![image](https://github.com/user-attachments/assets/bb03f53c-65af-4a96-b56e-54b497ae292c)
 pop up sign in github muncul di layar
 11. Cek File 
 Setelah itu, cek repository yang telah Anda buat. Anda akan mendapati file-file yang telah ditambahkan sebelumnya. Pada tutorial ini kami hanya menambahkan satu file, yaitu README.txt. 
-
-cara menggunakan git untuk upload file readme.md di repository github berhasil
 ![image](https://github.com/user-attachments/assets/32301cb0-4f4f-4b0c-9b69-bc32204e888e)
-
+cara menggunakan git untuk upload file readme.md di repository github berhasil
