@@ -253,7 +253,7 @@ menjalankan perintah git init pada bash
 
 Untuk bisa menambahkan file ke repository GitHub, Anda perlu menerapkan langkah-langkah di bawah ini:
 
-Buat file di folder yang sudah dibuat (Test Git). Contohnya, di sini kami membuat file README.md
+Buat file di folder yang sudah dibuat (Test Git). Contohnya, di sini kita membuat file README.md
 Buka GitBash lalu masukkan perintah berikut:
 
 $ git add README.md
@@ -298,7 +298,7 @@ pop up sign in github muncul di layar
 
 11. Cek File 
 
-Setelah itu, cek repository yang telah Anda buat. Anda akan mendapati file-file yang telah ditambahkan sebelumnya. Pada tutorial ini kami hanya menambahkan satu file, yaitu README.md. 
+Setelah itu, cek repository yang telah Anda buat. Anda akan mendapati file-file yang telah ditambahkan sebelumnya. Pada tutorial ini kita hanya menambahkan satu file, yaitu README.md. 
 
 ![image](https://github.com/user-attachments/assets/32301cb0-4f4f-4b0c-9b69-bc32204e888e)
 
