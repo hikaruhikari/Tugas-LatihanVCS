@@ -1,6 +1,8 @@
 # Tugas-LatihanVCS
 TUTORIAL CARA PENGGUNAAN GIT
-CAR INSTALL GIT DI WINDOWS DAN LINUX
+
+CARA INSTALL GIT DI WINDOWS DAN LINUX
+
 Sebelum mempelajari bagaimana cara menggunakan Git, Anda perlu menginstalnya terlebih dahulu di perangkat yang Anda gunakan. Anda bisa memasang Git baik di Windows maupun di Linux. Berikut adalah panduan memasang Git di kedua sistem operasi tersebut:
 
 CARA INSTALL GIT DI WINDOWS
@@ -67,7 +69,7 @@ Kemudian untuk mengeksekusi SSH, Anda bisa menggunakan aplikasi dari Git atau  d
 
 ![image](https://github.com/user-attachments/assets/fc8da85a-47da-4e7f-9114-e1078bbcc086)
 
-pilih aplikasi openssh bawaan di git
+pilih aplikasi openSSH bawaan di git
 
 9. Pilih Line Ending
 
@@ -79,7 +81,7 @@ pilih line ending windows style
 
 10. Pilih Emulator Terminal
 
-Setelah itu, Anda perlu memilih emulator terminal yang akan digunakan. Anda bisa menggunakan Command Prompt atau MinTTY. Karena ingin menggunakan Command Prompt, pada tutorial ini kami memilih Use Windows’ default console windows. Klik Next untuk melanjutkan instalasi.
+Setelah itu, Anda perlu memilih emulator terminal yang akan digunakan. Anda bisa menggunakan Command Prompt atau MinTTY. Karena ingin menggunakan Command Prompt, pada tutorial ini kita memilih Use Windows’ default console windows. Klik Next untuk melanjutkan instalasi.
 
 ![image](https://github.com/user-attachments/assets/f92b353d-dd59-4ff3-bbec-56ded5ac18dc)
 
@@ -126,6 +128,7 @@ Jika Git berhasil terinstall, Anda akan melihat tampilan seperti di bawah ini ya
 cek versi git yang terinstall pada cmd
 
 CARA INSTALL GIT DI LINUX UBUNTU
+
 Langkah instalasi Git di Ubuntu berbeda dengan Windows. Cara install Git di Ubuntu hanya membutuhkan tiga langkah singkat, yaitu:
 
 1. Update Linux Ubuntu
@@ -162,7 +165,7 @@ perintah git --version untuk melihat versi git yang terinstall di linux
 
 CARA MENGGUNAKAN GIT
 
-Setelah berhasil install ke Git, selanjutnya kami akan memberikan 10 langkah menggunakan Git. Berikut ini adalah sembilang langkah menggunakan Git.
+Setelah berhasil install ke Git, selanjutnya kita akan memberikan 10 langkah menggunakan Git. Berikut ini adalah sembilang langkah menggunakan Git.
 
 1. Login Git
 
@@ -183,6 +186,7 @@ $ git config --list
 ![image](https://github.com/user-attachments/assets/4f2fc6d4-4c05-47e4-bd22-0150d79fc77d)
 
 mendaftarkan alamat email dan username github untuk git
+
 2. Login Github
 
 Langkah kedua dalam belajar menggunakan Git adalah Anda harus login ke dalam website GitHub. Github dan Git memiliki hubungan khusus, yaitu Git yang berperan sebagai version control system dan Github menjadi hosting atau sebagai penyimpan kode pemrograman.
@@ -262,7 +266,7 @@ Selanjutnya, Anda perlu membuat Commit. Commit berfungsi untuk menambahkan updat
 
 $ git commit -m "first commit"
 
-Pada tutorial ini kami membuat first commit sebagai Commit pertama kami. Anda bebas membuat membuat nama Commit apa saja.
+Pada tutorial ini kita membuat first commit sebagai Commit pertama kita. Anda bebas membuat membuat nama Commit apa saja.
 
 ![image](https://github.com/user-attachments/assets/d0e6c7f8-5056-49f6-b6c4-f213a33e4fbd)
 
@@ -287,11 +291,15 @@ Langkah terakhir adalah push ke GitHub Push ini berfungsi untuk mengupload hasil
 git push -u origin master
 
 Perintah di atas akan menampilkan pop up sign in GitHub. Anda perlu login untuk melanjutkan proses push ke GitHub. 
+
 ![image](https://github.com/user-attachments/assets/bb03f53c-65af-4a96-b56e-54b497ae292c)
 
 pop up sign in github muncul di layar
+
 11. Cek File 
-Setelah itu, cek repository yang telah Anda buat. Anda akan mendapati file-file yang telah ditambahkan sebelumnya. Pada tutorial ini kami hanya menambahkan satu file, yaitu README.txt. 
+
+Setelah itu, cek repository yang telah Anda buat. Anda akan mendapati file-file yang telah ditambahkan sebelumnya. Pada tutorial ini kami hanya menambahkan satu file, yaitu README.md. 
+
 ![image](https://github.com/user-attachments/assets/32301cb0-4f4f-4b0c-9b69-bc32204e888e)
 
 cara menggunakan git untuk upload file readme.md di repository github berhasil
